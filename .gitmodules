@@ -1,0 +1,4 @@
+[submodule "libmp4v2"]
+	path = libmp4v2
+	url = https://github.com/enzo1982/mp4v2.git
+	branch = main
